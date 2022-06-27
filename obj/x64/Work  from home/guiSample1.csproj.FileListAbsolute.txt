@@ -1,0 +1,13 @@
+D:\Visual Studio Projects\Coursework\guiSample1\bin\x64\Work  from home\guiSample1.exe
+D:\Visual Studio Projects\Coursework\guiSample1\obj\x64\Work  from home\guiSample1.csprojAssemblyReference.cache
+D:\Visual Studio Projects\Coursework\guiSample1\obj\x64\Work  from home\guiSample1.first_page.resources
+D:\Visual Studio Projects\Coursework\guiSample1\obj\x64\Work  from home\guiSample1.frmLogIn.resources
+D:\Visual Studio Projects\Coursework\guiSample1\obj\x64\Work  from home\guiSample1.frmAdmin.resources
+D:\Visual Studio Projects\Coursework\guiSample1\obj\x64\Work  from home\guiSample1.frmadminlog.resources
+D:\Visual Studio Projects\Coursework\guiSample1\obj\x64\Work  from home\guiSample1.frmAdminSignUp.resources
+D:\Visual Studio Projects\Coursework\guiSample1\obj\x64\Work  from home\guiSample1.frmMain.resources
+D:\Visual Studio Projects\Coursework\guiSample1\obj\x64\Work  from home\guiSample1.Properties.Resources.resources
+D:\Visual Studio Projects\Coursework\guiSample1\obj\x64\Work  from home\guiSample1.frmSignUp.resources
+D:\Visual Studio Projects\Coursework\guiSample1\obj\x64\Work  from home\guiSample1.csproj.GenerateResource.cache
+D:\Visual Studio Projects\Coursework\guiSample1\obj\x64\Work  from home\guiSample1.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\Coursework\guiSample1\obj\x64\Work  from home\guiSample1.exe
